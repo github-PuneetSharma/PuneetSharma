@@ -1,0 +1,25 @@
+body{
+    background-color: d6d5c9;
+}
+h1{
+    color:9d0208;
+}
+
+div
+{
+    border-style:ridge;
+    border-color: 386641;
+    background-color: bee3db;
+    width:90%;
+    margin-left: 80px;
+    Height:380px;
+
+    color:00509d;
+    font-size:18px;
+}
+
+textarea{
+    width:100%;
+    height:100px;
+    resize:none;
+}

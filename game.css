@@ -1,0 +1,15 @@
+h1{
+    color:blueviolet;
+}
+body{
+    background-color: azure;
+}
+div{
+    border-style: ridge;
+    border-color: 386641;
+    background-color:aqua;
+    width:97%;
+}
+input{
+    background-color: rgb(204, 209, 208);
+}

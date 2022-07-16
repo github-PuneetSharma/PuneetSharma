@@ -1,0 +1,20 @@
+<html>
+<head>
+<link rel="stylesheet" href="interpreter.css">
+<h1 class="00"><u>Interpreter</u></h1>
+<script type="text/javascript">
+function interpreter()
+{
+var x= document.getElementById("01");
+var z=document.getElementById("02");
+x.innerHTML=z.value;
+}
+</script>
+</head>
+<body>
+<div id="01" ></div>
+<br />
+<h2><b><i>Type Here</i></b></h2><textarea id="02" onkeyup="interpreter()"></textarea>
+<br />
+</body>
+</html>
